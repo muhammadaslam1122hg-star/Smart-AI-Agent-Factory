@@ -1,0 +1,8 @@
+{
+  "name": "Manifest AI Studio",
+  "description": "A comprehensive AI-powered studio for building websites, apps, generating images, videos, and handling complex AI tasks using Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
